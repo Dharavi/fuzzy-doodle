@@ -1,0 +1,25 @@
+body{
+    background: powderblue;
+}
+
+#Header a:hover
+{
+    color: #FFF;
+}
+
+#bg-img
+{
+    background: url('../img/RESUME 2.0\Portfolio Images\Bg-02 (2).jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+#About
+{
+    margin-top: -200px;
+}
+#About .fa
+{
+    color: pink;
+}
